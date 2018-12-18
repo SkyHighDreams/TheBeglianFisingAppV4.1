@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity  implements View.OnClickList
         buttonWEER.setOnClickListener(this);
 
         //test coment
-        
+
     }
 
     @Override
