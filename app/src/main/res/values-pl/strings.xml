@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TheBeglianFishingAppV3</string>
+    <string name="Main_maten">Minimalne Wymiary</string>
+    <string name="Main_knopen">Węzły</string>
+    <string name="Main_Keuze">Dokonaj Wyboru</string>
+    <string name="Main_weer">Pogoda</string>
+    <string name="Weer_zoet">Słodka woda</string>
+    <string name="Weer_zout">Słona woda</string>
+    <string name="Backbtn">Powrót</string>
+</resources>
