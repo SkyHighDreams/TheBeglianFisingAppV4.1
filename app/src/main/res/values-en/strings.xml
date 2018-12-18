@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TheBeglianFishingAppV3</string>
+    <string name="Main_weer">weatherforecast</string>
+    <string name="Main_maten">Minimum sizes</string>
+    <string name="Main_knopen">Knots</string>
+    <string name="Main_Keuze">Make your choice</string>
+    <string name="Weer_zoet">Fresh water</string>
+    <string name="Weer_zout">Salt water</string>
+    <string name="Backbtn">Back</string>
+</resources>

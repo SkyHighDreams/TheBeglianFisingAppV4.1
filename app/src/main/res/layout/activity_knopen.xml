@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backgroundbedeeng"
+    tools:context=".Activity_knopen">
+
+    <Button
+        android:id="@+id/buttonzoetwaterKnopen"
+        android:layout_width="180dp"
+        android:layout_height="75dp"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="30dp"
+        android:background="#00FF0000"
+        android:text="@string/Backbtn"
+        android:textColor="@android:color/background_light"
+        android:textSize="24sp"
+        android:textStyle="bold"
+ />
+
+
+
+</android.support.constraint.ConstraintLayout>

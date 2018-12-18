@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TheBeglianFishingAppV3</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="section_format" translatable="false">Hello World from section: %1$d</string>
+    <string name="Main_weer">Weersvorspelling</string>
+    <string name="Main_maten">Minimummaten</string>
+    <string name="Main_knopen">Knopen</string>
+    <string name="Main_Keuze">Maak uw keuze</string>
+    <string name="Weer_zoet">Zoetwater</string>
+    <string name="Weer_zout">Zoutwater</string>
+    <string name="Backbtn">Terug</string>
+</resources>
