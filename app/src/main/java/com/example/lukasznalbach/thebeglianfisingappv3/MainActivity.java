@@ -21,6 +21,8 @@ public class MainActivity extends AppCompatActivity  implements View.OnClickList
         buttonKNOPEN.setOnClickListener(this);
         buttonWEER.setOnClickListener(this);
 
+        //test coment
+        
     }
 
     @Override
