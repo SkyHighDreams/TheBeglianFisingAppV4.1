@@ -1,0 +1,64 @@
+translations
+
+menu
+engels
+nederlands
+duits
+
+taal geselecteerd
+backbutton
+zoutwater
+zoetwater
+"knopen"
+"3day weersvoorspelling"
+"tide wind, wave height"
+
+saltwater fish
+salzwasserfische
+zoutwater vissen
+
+schar dab tupfen
+
+kabeljauw codfish kabeljau
+
+paling aal eel
+
+ansjovis anchovies sardellen
+
+blauwe leng, blue ling, blaues ling
+
+bot flounder butt
+
+forel trout forelle
+
+haring herring hering
+
+heek hake seehecht
+
+horsmakreel hors mackarel hors makrele
+
+leng ling ling
+
+geep garfish  hornhecht
+
+makreel mackarel makrele
+
+sardine sardine sardine
+
+tong sole seezunge
+
+schelvis haddock schellfisch
+
+scholvis goatfish Ziegenfisch
+
+wijting whiting wittling
+
+witte koolvis wite coalfish weißer Köhler
+
+zalm salmon lachs
+
+zeebaars, see bass, seebarch
+
+zeekreeft lobster hummer
+
+zwarte koolvis, black coalfish, schwarzer Köhler
