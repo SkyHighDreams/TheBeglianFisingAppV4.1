@@ -43,9 +43,8 @@ public class Activity_maten extends AppCompatActivity implements View.OnClickLis
         startActivity(intentmatenzoetwater);
     }
 
-    private void openActivity_ZoutwaterMaten()
-    {
-
+    private void openActivity_ZoutwaterMaten() {
+        Intent intentmatenzoutwater = new Intent(this, activity_maten_zoutwater.class);
+        startActivity(intentmatenzoutwater);
     }
-
 }

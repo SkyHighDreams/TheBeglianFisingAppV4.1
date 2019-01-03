@@ -19,7 +19,8 @@
         <activity android:name=".Activity_maten" />
         <activity android:name=".Activity_knopen" />
         <activity android:name=".Activity_weer" />
-        <activity android:name=".Activity_maten_zoetwater"></activity>
+        <activity android:name=".Activity_maten_zoetwater" />
+        <activity android:name=".activity_maten_zoutwater"></activity>
     </application>
 
 </manifest>
