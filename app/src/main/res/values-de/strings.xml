@@ -12,86 +12,86 @@
     <string name="schar">tupfen</string>
     <string name="scharsizebe">20cm</string>
 
-    <string name="aal">aal/paling</string>
-    <string name="aal_maat">n/a terugzetplicht</string>
+    <string name="aal">aal</string>
+    <string name="aal_maat">n/a verpflichung zurück</string>
 
-    <string name="ansjovis">ansjovis</string>
+    <string name="ansjovis">sardellen</string>
     <string name="ansjovis_maat">12cm</string>
 
-    <string name="blauwe_leng">blauwe leng</string>
+    <string name="blauwe_leng">blaues ling</string>
     <string name="blauwe_leng_maat">70cm</string>
 
-    <string name="bot">bot</string>
+    <string name="bot">butt</string>
     <string name="bot_maat">20cm</string>
 
-    <string name="forel">forel</string>
-    <string name="forel_maat">n/a terugzetplicht</string>
+    <string name="forel">forelle</string>
+    <string name="forel_maat">n/a verpflichtung zurück</string>
 
-    <string name="haring">haring</string>
+    <string name="haring">hering</string>
     <string name="haring_maat">20cm</string>
 
-    <string name="heek">heek</string>
+    <string name="heek">seehecht</string>
     <string name="heek_maat">27cm</string>
 
-    <string name="horsmakreel">horsmakreel</string>
+    <string name="horsmakreel">hors makrele</string>
     <string name="horsmakreel_maat">15cm</string>
 
-    <string name="kabeljouw">kabeljouw</string>
+    <string name="kabeljouw">kabeljau</string>
     <string name="kabeljouw_maat">35cm</string>
 
-    <string name="leng">leng</string>
+    <string name="leng">ling</string>
     <string name="leng_maat">63cm</string>
 
-    <string name="makreel">makreel</string>
+    <string name="makreel">makrele</string>
     <string name="makreel_maat">30cm</string>
 
     <string name="sardine">sardine</string>
     <string name="sardine_maat">11cm</string>
 
-    <string name="tong">tong</string>
+    <string name="tong">seezunge</string>
     <string name="tong_maat">24cm</string>
 
-    <string name="schelvis">schelvis</string>
+    <string name="schelvis">schellfish</string>
     <string name="schelvis_maat">30cm</string>
 
-    <string name="schol">schol</string>
+    <string name="schol">ziegenfish</string>
     <string name="schol_maat">27cm</string>
 
-    <string name="wijting">wijting</string>
+    <string name="wijting">wittling</string>
     <string name="wijting_maat">27cm</string>
 
-    <string name="witte_koolvis">witte koolvis</string>
+    <string name="witte_koolvis">weiBer köhler</string>
     <string name="witte_koolvis_maat">30cm</string>
 
-    <string name="zalm">zalm</string>
-    <string name="zalm_maat">n/a terugzetplicht</string>
+    <string name="zalm">lachs</string>
+    <string name="zalm_maat">n/a verpflichtung zurück</string>
 
-    <string name="zeebaars">zeebaars</string>
-    <string name="zeebaars_maat">42cm max 1 stuk</string>
+    <string name="zeebaars">seebarch</string>
+    <string name="zeebaars_maat">42cm bis zu 1 stück</string>
 
-    <string name="zeekreeft">zeekreeft</string>
-    <string name="zeekreeft_maat">85cm van schaar naar staart</string>
+    <string name="zeekreeft">hummer</string>
+    <string name="zeekreeft_maat">85cm von der klaue bis zum schwanz</string>
 
-    <string name="zwarte_koolvis">zwarte koolvis</string>
+    <string name="zwarte_koolvis">schwarzer köhler</string>
     <string name="zwarte_koolvis_maat">35cm</string>
 
     <!-- zoetwater -->
 
-    <string name="baars">baars</string>
+    <string name="baars">barch</string>
     <string name="baars_maat">22cm</string>
 
-    <string name="beekforel">beekforel</string>
+    <string name="beekforel">forelle</string>
     <string name="beekforel_maat">25cm</string>
 
-    <string name="snoek">snoek</string>
+    <string name="snoek">hecht</string>
     <string name="snoek_maat">45cm</string>
 
-    <string name="voorn">voorn</string>
+    <string name="voorn">plötze</string>
     <string name="voorn_maat">30cm</string>
 
-    <string name="snoekbaars">snoekbaars</string>
+    <string name="snoekbaars">Zander</string>
     <string name="snoekbaars_maat">42cm</string>
 
-    <string name="zeelt">zeelt</string>
+    <string name="zeelt">schleie</string>
     <string name="zeelt_maat">25cm</string>
 </resources>
